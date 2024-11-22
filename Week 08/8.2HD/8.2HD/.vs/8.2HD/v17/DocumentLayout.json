@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|c:\\users\\corer\\onedrive\\desktop\\2nd year\\1st sem\\d.s.a\\week 08\\8.2hd\\8.2hd\\8.2hd\\coinrepresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|solutionrelative:8.2hd\\coinrepresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2hd\\testgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|solutionrelative:8.2hd\\testgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2hd\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B7A20-DD71-4C99-8B78-7E3354250EEC}|8.2HD\\8.2HD.csproj|solutionrelative:8.2hd\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinRepresentation.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\CoinRepresentation.cs",
+              "RelativeDocumentMoniker": "8.2HD\\CoinRepresentation.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\CoinRepresentation.cs*",
+              "RelativeToolTip": "8.2HD\\CoinRepresentation.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:57:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\TestGenerator.cs",
+              "RelativeDocumentMoniker": "8.2HD\\TestGenerator.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\TestGenerator.cs",
+              "RelativeToolTip": "8.2HD\\TestGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:56:44.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\Tester.cs",
+              "RelativeDocumentMoniker": "8.2HD\\Tester.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\2nd year\\1st sem\\D.S.A\\Week 08\\8.2HD\\8.2HD\\8.2HD\\Tester.cs",
+              "RelativeToolTip": "8.2HD\\Tester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:54:00.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

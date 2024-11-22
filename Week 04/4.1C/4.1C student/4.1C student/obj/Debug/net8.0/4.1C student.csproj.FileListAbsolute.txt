@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\bin\Debug\net8.0\4.1C student.exe
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\bin\Debug\net8.0\4.1C student.deps.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\bin\Debug\net8.0\4.1C student.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\bin\Debug\net8.0\4.1C student.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\bin\Debug\net8.0\4.1C student.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\refint\4.1C student.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\4.1C student.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 04\4.1C student\4.1C student\obj\Debug\net8.0\ref\4.1C student.dll

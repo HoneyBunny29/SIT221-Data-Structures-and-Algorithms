@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\bin\Debug\net8.0\3.1.P sort.exe
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\bin\Debug\net8.0\3.1.P sort.deps.json
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\bin\Debug\net8.0\3.1.P sort.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\bin\Debug\net8.0\3.1.P sort.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\bin\Debug\net8.0\3.1.P sort.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\refint\3.1.P sort.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\3.1.P sort.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\Algorithm\Week 01\Task 1.1 P\3.1.P sort\3.1.P sort\obj\Debug\net8.0\ref\3.1.P sort.dll

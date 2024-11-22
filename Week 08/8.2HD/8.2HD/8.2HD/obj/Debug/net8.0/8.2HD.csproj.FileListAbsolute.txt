@@ -1,0 +1,28 @@
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.exe
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.deps.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\refint\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\ref\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.exe
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.deps.json
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\bin\Debug\net8.0\8.2HD.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\refint\8.2HD.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\8.2HD.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\1st sem\D.S.A\Week 08\8.2HD\8.2HD\8.2HD\obj\Debug\net8.0\ref\8.2HD.dll

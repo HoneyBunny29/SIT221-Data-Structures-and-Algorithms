@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\bin\Debug\net8.0\3.2D.exe
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\bin\Debug\net8.0\3.2D.deps.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\bin\Debug\net8.0\3.2D.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\bin\Debug\net8.0\3.2D.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\bin\Debug\net8.0\3.2D.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\refint\3.2D.dll
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.pdb
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\3.2D.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\2nd year\D.S.A\Week 03\3.2D\3.2D\3.2D\obj\Debug\net8.0\ref\3.2D.dll
